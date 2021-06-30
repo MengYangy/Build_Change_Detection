@@ -4,6 +4,7 @@ Change Detection, Tensorflow2，
   
 # 项目介绍  
 本项目为研究性质，其主要目的是检测多时相遥感影像中建筑物发生变化的区域检测，其变化包括新增与消失。  
+实验数据集为 LEVIR-CD  
   
 # 运行环境  
 tensorflow2.0+, numpy 1.18.1, opencv-python 4.5.1.48  
